@@ -1,0 +1,32 @@
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg266453" viewBox="0 0 390 230" width="390" height="230" version="1.1">
+  <metadata id="metadata266459">
+    <rdf:rdf>
+      <cc:work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      </cc:work>
+    </rdf:rdf>
+  </metadata>
+  <defs id="defs266457"/>
+  <linearGradient spreadMethod="pad" y2="30%" x2="-10%" y1="120%" x1="30%" id="3d_gradient2-logo-4856beb9-2557-46e7-9a8b-8c05c79329b6">
+    <stop id="stop266434" stop-opacity="1" stop-color="#ffffff" offset="0%"/>
+    <stop id="stop266436" stop-opacity="1" stop-color="#000000" offset="100%"/>
+  </linearGradient>
+  <linearGradient gradientTransform="rotate(-30)" spreadMethod="pad" y2="30%" x2="-10%" y1="120%" x1="30%" id="3d_gradient3-logo-4856beb9-2557-46e7-9a8b-8c05c79329b6">
+    <stop id="stop266439" stop-opacity="1" stop-color="#ffffff" offset="0%"/>
+    <stop id="stop266441" stop-opacity="1" stop-color="#cccccc" offset="50%"/>
+    <stop id="stop266443" stop-opacity="1" stop-color="#000000" offset="100%"/>
+  </linearGradient>
+  <g id="logo-group" style="transform: translate(-322px,-355px);">
+    <image xlink:href="" id="container" x="272" y="144" width="480" height="480" transform="translate(0 0)" style="display: none;"/>
+    <g id="logo-center" transform="translate(0 0)">
+      <image xlink:href="" id="icon_container" x="0" y="0" style="display: none;"/>
+      <g id="slogan" style="font-style:normal;font-weight:400;font-size:32px;line-height:1;font-family:Coustard;font-variant-ligatures:none;text-align:center;text-anchor:middle" transform="translate(0 0)"/>
+      <g id="title" style="font-style:normal;font-weight:normal;font-size:72px;line-height:1;font-family:'Brandmark Script 7';font-variant-ligatures:normal;text-align:center;text-anchor:middle" transform="translate(0 0)">
+        <path id="path266462" style="font-style:normal;font-weight:normal;font-size:72px;line-height:1;font-family:'Brandmark Script 7';font-variant-ligatures:normal;text-align:center;text-anchor:middle" d="m 493.49825,-15.12 c -1.08,2.952 -3.96,8.712 -7.416,8.712 -1.656,0 -2.808,-1.368 -2.016,-4.824 0.936,-4.248 2.448,-9.432 2.592,-10.008 0.504,-2.376 0.36,-3.672 -2.016,-4.752 -3.6,-1.584 -7.992,-2.952 -10.08,-4.464 0.144,-2.808 -1.296,-5.184 -4.104,-4.896 -3.24,0.288 -4.608,3.744 -2.88,7.992 0.432,2.52 0.144,8.352 -1.512,12.744 -0.288,0.648 -0.144,1.152 0.504,1.368 l 3.384,1.296 c 0.648,0.216 1.08,0.144 1.296,-0.576 1.08,-3.456 1.872,-7.416 2.304,-11.448 l 2.808,1.296 c 1.152,0.504 1.512,1.08 1.152,2.52 -0.936,4.104 -2.088,6.984 -2.664,10.368 -0.864,5.616 3.384,10.656 9.432,10.656 7.848,0 12.888,-8.352 14.472,-14.4 0.216,-0.792 0.072,-1.296 -0.792,-1.584 l -2.808,-0.864 c -0.864,-0.288 -1.368,0 -1.656,0.864 z" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#f9f9f9" stroke="#f9f9f9" transform="translate(0 414.2605302) translate(329.95072219999986 -52.589576399999984) scale(3.9) translate(-465.92481 35.375716)"/>
+        <path id="path266464" style="font-style:normal;font-weight:normal;font-size:72px;line-height:1;font-family:'Brandmark Script 7';font-variant-ligatures:normal;text-align:center;text-anchor:middle" d="m 503.2115,0.864 c 5.328,0 9.432,-3.168 11.016,-5.472 1.08,3.312 3.96,5.472 8.064,5.472 8.064,0 12.672,-8.352 14.256,-14.4 0.216,-0.792 0.072,-1.296 -0.792,-1.584 l -2.808,-0.864 c -0.864,-0.288 -1.368,0 -1.656,0.864 -1.008,2.664 -3.456,8.712 -6.768,8.712 -2.016,0 -2.232,-2.304 -1.656,-6.12 l 2.304,-14.832 c 0.144,-0.792 -0.36,-1.44 -1.224,-1.44 h -5.76 c -0.864,0 -1.512,0.576 -1.656,1.44 l -0.072,0.432 c -1.152,-1.008 -3.456,-2.736 -7.344,-2.736 -6.984,0 -13.392,5.472 -15.696,13.032 -2.592,8.568 0.864,17.496 9.792,17.496 z m 12.168,-20.808 c -1.008,7.128 -4.824,13.536 -9.288,13.536 -3.384,0 -4.896,-3.816 -3.816,-8.064 1.296,-4.968 4.968,-7.704 8.496,-7.704 2.52,0 3.888,1.44 4.608,2.232 z" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#f9f9f9" stroke="#f9f9f9" transform="translate(0 414.2605302) translate(433.9083032 -30.313884) scale(3.9) translate(-492.5806 29.664)"/>
+        <path id="path266466" style="font-style:normal;font-weight:normal;font-size:72px;line-height:1;font-family:'Brandmark Script 7';font-variant-ligatures:normal;text-align:center;text-anchor:middle" d="m 558.035,-28.8 h -5.76 c -0.864,0 -1.512,0.576 -1.656,1.44 l -1.656,10.656 c -0.72,4.536 -3.384,10.296 -7.056,10.296 -2.304,0 -2.736,-2.304 -2.16,-6.12 l 2.304,-14.832 c 0.144,-0.792 -0.36,-1.44 -1.224,-1.44 h -5.76 c -0.864,0 -1.512,0.576 -1.656,1.44 l -2.664,17.28 c -0.936,6.048 1.584,10.944 8.352,10.944 2.952,0 5.4,-0.936 7.488,-2.376 l -0.36,2.52 c -1.512,9.72 -4.536,10.872 -8.28,10.872 -2.088,0 -3.6,-1.008 -3.816,-1.152 -0.936,-0.648 -1.512,-0.576 -2.016,0.072 l -2.088,2.448 c -0.576,0.72 -0.504,1.296 0.072,1.944 0.936,1.152 4.464,3.96 9.864,3.96 6.12,0 12.6,-3.672 14.472,-15.552 l 4.824,-30.96 c 0.144,-0.792 -0.36,-1.44 -1.224,-1.44 z" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#f9f9f9" stroke="#f9f9f9" transform="translate(0 414.2605302) translate(578.3983112000002 -26.944283999999996) scale(3.9) translate(-529.62932 28.8)"/>
+      </g>
+    </g>
+  </g>
+</svg>
