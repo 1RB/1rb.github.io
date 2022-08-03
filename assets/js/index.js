@@ -17,9 +17,11 @@ function toggleContrast() {
     contrastToggle = !contrastToggle;
     if (contrastToggle) {
       document.body.classList += " dark-theme"
+      document.getElementById("project__img--eprofile").src="https://media.discordapp.net/attachments/993208360746881104/1004325283236675584/unknown.png"
     }
     else {
       document.body.classList.remove("dark-theme")
+      document.getElementById("project__img--eprofile").src="https://media.discordapp.net/attachments/993208360746881104/1004405911604965446/unknown.png"
     }
   }
   
