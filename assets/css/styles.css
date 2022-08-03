@@ -222,3 +222,30 @@ a {
   background-color: white;
   color: #242424;
 }
+
+/* 
+
+  MOBILE PART GO BRR
+
+*/
+
+@media (max-width: 768px) {
+  .title {
+    font-size: 80px;
+  }
+  .header__para {
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 480px) {
+  .title {
+    font-size: 52px;
+  }
+  .header__para {
+    font-size: 18px;
+  }
+  .nav__link:first-child {
+    display: none;
+  }
+}
